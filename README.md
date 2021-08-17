@@ -1,1 +1,2 @@
-# WolfWare-DB
+# wolfware-db
+CSC 540 Project
